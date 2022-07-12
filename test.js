@@ -1,0 +1,1 @@
+<console className="log"></console>
